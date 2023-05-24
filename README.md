@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  Exam AZ-104 - Microsoft Azure Administrator Crash Course
+  Exam AZ-104 - Microsoft Azure Administrator Course
   <br />
   <a href="#about"><strong>Explore the docs »</strong></a>
   <br />
@@ -125,4 +125,3 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-Thanks to Laura Lewin, Mike Pfeiffer, Microsoft, and to each and every one of my students around the world.
